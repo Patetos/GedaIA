@@ -8,23 +8,23 @@
 # Commandes disponible :
 
 
-exemple = Commande = Effet
+# exemple = Commande = Effet
 
 
-Page du projet
+# Page du projet (Github)
 
-  Géda = Page du projet
-  Geda = Page du projet
-  Projet = Page du projet
-  Projet page = Page du proje
-  Géda IA = Page du projet
-  Geda IA = Page du projet
+Géda = Page du projet<br />
+Geda = Page du projet<br />
+Projet = Page du projet<br />
+Projet page = Page du projet<br />
+Géda IA = Page du projet<br />
+Geda IA = Page du projet<br />
  
-Facebook
+# Facebook
 
-Facebook = Facebook home
-FACEBOOK = Facebook Home
-facebook = Facebook Home
+Facebook = Facebook home<br />
+FACEBOOK = Facebook Home<br />
+facebook = Facebook Home<br />
   
   # Google
  
