@@ -31,3 +31,15 @@ facebook = Facebook Home<br />
 Google = Google page<br />
 GOOGLE = Google page<br />
 google = Google page<br />
+
+# Bonjour
+
+BONJOUR = Bonjour ça va ?<br />
+Bonjour = Bonjour ça va ?<br />
+bonjour = Bonjour ça va ?<br />
+
+# Salut
+
+Salut = Salut<br />
+SALUT = Salut<br />
+salut = Salut<br />
