@@ -43,3 +43,15 @@ bonjour = Bonjour ça va ?<br />
 Salut = Salut<br />
 SALUT = Salut<br />
 salut = Salut<br />
+
+# Wesh
+
+Wesh = Wesh<br />
+WESH = Wesh<br />
+wesh = Wesh<br />
+
+# Yo
+
+Yo = Yo
+yo = Yo
+YO = Yo
