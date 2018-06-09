@@ -22,12 +22,12 @@ Page du projet
  
 Facebook
 
-# Facebook = Facebook home
-# FACEBOOK = Facebook Home
-# facebook = Facebook Home
+Facebook = Facebook home
+FACEBOOK = Facebook Home
+facebook = Facebook Home
   
   # Google
  
-# Google = Google page
-# GOOGLE = Google page
-# google = Google page
+Google = Google page<br />
+GOOGLE = Google page<br />
+google = Google page<br />
