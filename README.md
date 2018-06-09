@@ -12,11 +12,17 @@ exemple = Commande = Effet
 
 
 Page du projet
+
   Géda = Page du projet
+  
   Geda = Page du projet
+  
   Projet = Page du projet
+  
   Projet page = Page du projet
+  
   Géda IA = Page du projet
+  
   Geda IA = Page du projet
  
 Facebook
