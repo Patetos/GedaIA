@@ -55,3 +55,15 @@ wesh = Wesh<br />
 Yo = Yo
 yo = Yo
 YO = Yo
+
+# Présentation
+
+Comment t'appelles-tu = Géda / Je m'appellle Géda / Je suis Géda
+Comment t'appelles tu ? = Géda / Je m'appellle Géda / Je suis Géda
+Comment t'appelles tu = Géda / Je m'appellle Géda / Je suis Géda
+Quelle est ton nom ? = Géda / Je m'appellle Géda / Je suis Géda
+Quelle est ton nom = Géda / Je m'appellle Géda / Je suis Géda
+Qui est tu ? = Géda / Je m'appellle Géda / Je suis Géda
+Qui es tu = Géda / Je m'appellle Géda / Je suis Géda
+Qui es-tu ? = Géda / Je m'appellle Géda / Je suis Géda
+Qui es-tu = Géda / Je m'appellle Géda / Je suis Géda
