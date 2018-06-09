@@ -52,18 +52,26 @@ wesh = Wesh<br />
 
 # Yo
 
-Yo = Yo
-yo = Yo
-YO = Yo
+Yo = Yo<br />
+yo = Yo<br />
+YO = Yo<br />
 
 # Présentation
 
-Comment t'appelles-tu = Géda / Je m'appellle Géda / Je suis Géda
-Comment t'appelles tu ? = Géda / Je m'appellle Géda / Je suis Géda
-Comment t'appelles tu = Géda / Je m'appellle Géda / Je suis Géda
-Quelle est ton nom ? = Géda / Je m'appellle Géda / Je suis Géda
-Quelle est ton nom = Géda / Je m'appellle Géda / Je suis Géda
-Qui est tu ? = Géda / Je m'appellle Géda / Je suis Géda
-Qui es tu = Géda / Je m'appellle Géda / Je suis Géda
-Qui es-tu ? = Géda / Je m'appellle Géda / Je suis Géda
-Qui es-tu = Géda / Je m'appellle Géda / Je suis Géda
+Comment t'appelles-tu = Géda / Je m'appelle Géda / Je suis Géda<br />
+Comment t'appelles tu ? = Géda / Je m'appelle Géda / Je suis Géda<br />
+Comment t'appelles tu = Géda / Je m'appelle Géda / Je suis Géda<br />
+Quelle est ton nom ? = Géda / Je m'appelle Géda / Je suis Géda<br />
+Quelle est ton nom = Géda / Je m'appelle Géda / Je suis Géda<br />
+Qui est tu ? = Géda / Je m'appelle Géda / Je suis Géda<br />
+Qui es tu = Géda / Je m'appelle Géda / Je suis Géda<br />
+Qui es-tu ? = Géda / Je m'appelle Géda / Je suis Géda<br />
+Qui es-tu = Géda / Je m'appelle Géda / Je suis Géda<br />
+
+# Ca va
+
+ça va = Je ne peut pas ressentir démossions désolés<br />
+sa va = Je ne peut pas ressentir démossions désolés<br />
+Sa va = Je ne peut pas ressentir démossions désolés<br />
+Ca va = Je ne peut pas ressentir démossions désolés<br />
+ca va = Je ne peut pas ressentir démossions désolés<br />
